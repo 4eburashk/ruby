@@ -3,7 +3,6 @@
 #
 TEXT = 'Hello'
 text = 'World!'
-
 puts "#{TEXT} #{text}"
 text = 'people!'
-puts "#{text}"
+puts "#{TEXT} #{text}"
